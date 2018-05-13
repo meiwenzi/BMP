@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1526200518 source:d:\bmp\bmp.c
+	<stdio.h>
+	<math.h>
+	"learn.h"
+	<time.h>
+
+1526200667 d:\bmp\learn.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1526214291 source:d:\bmp\f\src\bmp.c
+	<stdio.h>
+	<math.h>
+	"learn.h"
+	<time.h>
+
+1526213995 d:\bmp\f\src\learn.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1526214291 source:d:\github\bmp\src\bmp.c
+	<stdio.h>
+	<math.h>
+	"learn.h"
+	<time.h>
+
+1526213995 d:\github\bmp\src\learn.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
